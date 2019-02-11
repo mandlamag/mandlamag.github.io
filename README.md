@@ -1,0 +1,2 @@
+# mandlamag.github.io
+website
